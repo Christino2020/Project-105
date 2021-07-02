@@ -1,0 +1,21 @@
+body{
+    color: coral;
+    background: cyan;
+    padding: 10px;
+    border: 50px solid black;
+}
+.heading {
+    width: 80%;
+    font-size: 20px;
+}
+#camera{
+    border: 2px solid black;
+    width:350px;
+    height: 300px;
+}
+#Person_name, #Person_accuracy, p  {
+    font-style: oblique;
+    font-weight: bold;
+    font-family: fantasy;
+    
+}
